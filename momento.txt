@@ -1,0 +1,15 @@
+﻿Sessions :
+--- Gestionnaires ---
+login : gestionnaire1
+mdp : gesSIDPlay_!19
+---------------------
+login : hatim
+mdp : hatimtim123
+
+----- Redacteur -----
+------- Active ------
+login : youssef
+mdp : 12345
+----- désActive -----
+login : fabrigas_cesc
+mdp : fabri123 
